@@ -1,0 +1,29 @@
+{
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "description": "En este proyecto, los estudiantes aprenderán a desarrollar un backend utilizando Node.js y Express para crear una API de un To-Do List. A lo largo del curso, explorarán conceptos fundamentales de backend, como la creación de endpoints, almacenamiento de datos en una base de datos, manejo de solicitudes y respuestas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuaMartz/ToDoList.git"
+  },
+  "keywords": [
+    "Express",
+    "JavaScript",
+    "Node.js"
+  ],
+  "author": "Luisa Martinez (LuArtemz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuaMartz/ToDoList/issues"
+  },
+  "homepage": "https://github.com/LuaMartz/ToDoList#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}

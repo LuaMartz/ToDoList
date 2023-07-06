@@ -86,7 +86,7 @@ Here are some example API requests:
 
 - PUT (update) a task: `PUT http://localhost:3005/api/tasks/:id`
   - Request body:
-    
+
     ```json
         {
         "title": "Updated Task Title",
